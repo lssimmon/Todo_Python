@@ -1,2 +1,2 @@
 # Todo_Python
-Simple to app
+Simple todo app
